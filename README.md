@@ -90,16 +90,24 @@ Future parts will expand with CSS (Part 2) and JavaScript/SEO (Part 3).
 
 ---
 
-## 🔄 Changelog
-**Version 1.0 — Initial Submission (Part 1)**  
-- Created project proposals for two organisations.  
-- Finalised selection of *Earth Sustainability* as the focus.  
-- Completed research and content sourcing.  
-- Designed and documented sitemap.  
-- Created HTML structure for 5 core pages.  
-- Added navigation links across all pages.  
-- Developed two sets of wireframes (black-and-white lo-fi and colour).  
-- Compiled references in Harvard Anglia style (IIE adapted).  
+# 📑 Changelog – Part 1 (Asimit Shrivastava)
+
+| Date       | Commit / Task                                   | Details                                                                 |
+|------------|-------------------------------------------------|-------------------------------------------------------------------------|
+| 2025-08-15 | **Project Repository Created**                  | Set up private GitHub repo, added root folders (`/css`, `/js`, `/images`) and `.gitignore`. |
+| 2025-08-16 | **Drafted Proposal 1: Earth Sustainability**    | Added organisation overview, mission/vision, goals, KPIs for NGO.       |
+| 2025-08-17 | **Drafted Proposal 2: Paw SafeHaven**           | Outlined organisation details, adoption/donation goals, timeline & budget. |
+| 2025-08-18 | **Content Research Completed**                  | Wrote original text; sourced Creative Commons images; referenced all sources in Harvard style. |
+| 2025-08-19 | **Organised Assets**                            | Created `/images` subfolders; renamed files using semantic names (e.g. `hero_banner_forest.jpg`). |
+| 2025-08-20 | **Sitemap & File Structure Finalised**          | Designed sitemap (5 pages) and documented links: `index.html`, `about.html`, `contact.html`, `donate.html`, `shop.html`. |
+| 2025-08-21 | **HTML Boilerplate Created**                    | Added `<!DOCTYPE html>`, `<head>`, `<body>`; inserted semantic tags (`<header>`, `<nav>`, `<main>`, `<footer>`). |
+| 2025-08-22 | **Homepage Content Added**                      | Integrated hero banner (1366x450px), mission statement, CTA button, navigation; added code comments. |
+| 2025-08-23 | **Subpages Drafted**                            | Built `about.html`, `shop.html`, `donate.html`, `contact.html`; embedded Google Maps frame; linked navigation across all pages. |
+| 2025-08-24 | **Initial Git Commits**                         | Commit 1: Project setup. Commit 2: Proposals & sitemap. Commit 3: HTML boilerplates. Commit 4: Homepage content & navigation. |
+| 2025-08-25 | **README.md Setup**                             | Added project overview, sitemap diagram, references, and Part 1 changelog entries. |
+| 2025-08-26 | **Cross-Browser Testing**                       | Validated HTML on Chrome/Firefox/Edge; fixed indentation and missing closing tags; confirmed navigation links working. |
+
+*End of Part 1 changelog — to be continued in Part 2 (CSS styling and responsive design).*
 
 ---
 
